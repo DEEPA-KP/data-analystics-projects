@@ -80,5 +80,17 @@ New-Wheels-Analytics
 
 ---
 
+## 📊 Sample Outputs
+
+(Screenshots will be added soon)
+
+- Customer distribution by state  
+- Top vehicle makers  
+- Revenue trends  
+- Customer feedback analysis
+
+
+---
+
 ## 👤 Author
 Data Analyst | SQL | Power BI | Python
