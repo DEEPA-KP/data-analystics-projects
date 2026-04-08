@@ -41,11 +41,11 @@ The dataset includes:
 
 ## 📈 Key Insights
 
-- Peak orders occur during specific time windows  
-- Certain cuisines dominate demand  
-- Delivery time impacts customer ratings  
-- High-rated restaurants attract repeat customers  
-
+- Peak order volume occurs during evening hours, highlighting strong demand during dinner time  
+- A small set of popular cuisines drives the majority of customer orders  
+- Increased delivery time is associated with lower customer ratings  
+- High-rated restaurants consistently attract more orders and customer engagement
+  
 ---
 
 ## 💡 Business Recommendations
@@ -83,7 +83,6 @@ The dataset includes:
 - Cuisine popularity  
 - Ratings analysis  
 - Delivery time insights
-
 
 ---
 
