@@ -33,7 +33,9 @@ The dataset includes:
 - Ratings distribution across demographics  
 - Popular genres  
 - Trends over years  
-- User behavior patterns  
+- User behavior patterns
+- Interactive filters (year, gender, genre)  
+- Drill-down analysis using slicers 
 
 ---
 
